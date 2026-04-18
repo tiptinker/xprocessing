@@ -574,6 +574,10 @@ section[id],
   gap: 1rem;
 }
 
+.factory-copy-wide {
+  grid-column: 1 / -1;
+}
+
 .photo-strip {
   display: grid;
   gap: 1rem;
