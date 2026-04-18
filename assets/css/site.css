@@ -416,6 +416,8 @@ select {
   line-height: 0.98;
   letter-spacing: -0.045em;
   max-width: none;
+}
+
 .stat span {
   display: block;
   margin-top: 0.3rem;
