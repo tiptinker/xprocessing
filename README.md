@@ -1,24 +1,29 @@
-# Vietnam X Processing Company Limited Website
+# CÔNG TY TNHH GIA CÔNG X VIỆT NAM
 
-这是一个无需构建的 GitHub Pages 静态站，默认首页为越南语版本，并提供英语、中文、日语、韩语四个独立语言目录。
+## Tiếng Việt
 
-## 目录结构
+Xưởng gia công may mặc chuyên tại Việt Nam. Chúng tôi chuyên nhận gia công các loại bọc ghế sofa (da thật và vải), nệm ngồi ô tô và các sản phẩm may mặc bọc nệm khác. Cam kết chất lượng tinh tế, đường may sắc sảo và tiến độ uy tín.
 
-- `index.html`: 越南语首页
-- `en/`, `zh/`, `ja/`, `ko/`: 其他语言页面目录
-- `assets/css/site.css`: 共用样式
-- `assets/js/site.js`: 共用交互脚本
-- `assets/images/`: 网站使用的品牌和工厂图片
+## English
 
-## 发布到 GitHub Pages
+### VIETNAM X PROCESSING COMPANY LIMITED
 
-1. 将整个目录推送到 GitHub 仓库。
-2. 在 GitHub 仓库中打开 `Settings > Pages`。
-3. 选择 `Deploy from a branch`。
-4. 选择发布分支，例如 `main`，目录选择 `/ (root)`。
-5. 保存后等待 GitHub Pages 完成部署。
+Sewing and processing factory in Vietnam. We specialize in high-quality sewing services for genuine leather and fabric sofa covers, car seat cushions, and various upholstery products. Committed to precision craftsmanship and reliable manufacturing.
 
-## 后续可选优化
+## 中文
 
-1. 如果后续绑定了正式域名，可以再补充绝对 URL 版的 `canonical`、`og:url` 和 `sitemap.xml`。
-2. 如果公司新增邮箱、WhatsApp 或 Zalo，也可以继续补到联系区，提升转化率。
+### 越南 X 加工有限公司
+
+越南专业缝制与加工工厂。专注于真皮与布艺沙发套、汽车坐垫及各类软包产品的高品质缝制服务。坚持精细工艺、车线整齐，并以可靠交期和稳定制造能力服务客户。
+
+## 日本語
+
+### VIETNAM X PROCESSING COMPANY LIMITED
+
+ベトナムの縫製加工工場です。本革および布製ソファカバー、車用シートクッション、各種張り製品向けの高品質な縫製加工を専門としています。丁寧な仕立て、正確な縫製、そして信頼できる納期対応を重視しています。
+
+## 한국어
+
+### VIETNAM X PROCESSING COMPANY LIMITED
+
+베트남의 봉제 및 가공 공장입니다. 천연가죽 및 패브릭 소파 커버, 자동차 시트 쿠션, 다양한 업홀스터리 제품의 고품질 봉제 가공을 전문으로 합니다. 정교한 마감, 깔끔한 스티치, 신뢰할 수 있는 납기 대응을 약속합니다.
